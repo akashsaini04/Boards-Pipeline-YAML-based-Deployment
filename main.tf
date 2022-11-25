@@ -26,3 +26,4 @@ variable "location" {
   default = "West Europe"
   description = "The Azure location where all resources in this example should be created"
 }
+ https://github.com/akashsaini04/Boards-Pipeline-YAML-based-Deployment/pull/new/feature
